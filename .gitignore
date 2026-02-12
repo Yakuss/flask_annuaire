@@ -1,0 +1,23 @@
+# Virtual Environment
+pyvenv.cfg
+Include/
+Lib/
+Scripts/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
